@@ -39,7 +39,7 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2007102160</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">A young Briton, learned in Roman ways, becomes their chief adversary</dc:description>
+		<dc:description id="description">A young Briton, learned in Roman ways, becomes their chief adversary.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Beric is a young Briton who was taken as a hostage by the Romans to ensure compliance by his tribe. While hostage he learns much about Roman culture and military tactics. When Beric is released, he becomes chief of his tribe and engages in several battles against the Romans.&lt;/p&gt;
 			&lt;p&gt;Set in the time of the Roman invasion of Britain, Beric’s travels take him across Britain, Rome and other parts of the Roman empire.&lt;/p&gt;
@@ -55,12 +55,12 @@
 		<meta property="file-as" refines="#author">Henty, G. A.</meta>
 		<meta property="se:name.person.full-name" refines="#author">Henty, George Alfred</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/G._A._Henty</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n80032718</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80032718</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">William Bell Scott</dc:contributor>
 		<meta property="file-as" refines="#artist">Scott, William Bell</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/William_Bell_Scott</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n50005611</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50005611</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Martin Robb</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Robb, Martin</meta>
