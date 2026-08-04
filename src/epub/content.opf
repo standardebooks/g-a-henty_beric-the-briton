@@ -47,7 +47,7 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2007102160</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A young Briton, learned in Roman ways, becomes their chief adversary.</dc:abstract>
+		<meta property="schema:abstract">A young Briton, learned in Roman ways, becomes their chief adversary.</meta>
 		<dc:description>
 			&lt;p&gt;Beric is a young Briton who is taken hostage by the Romans to ensure his tribe’s compliance with their rule. While hostage he studies the Latin language and Roman culture, history, and military tactics.&lt;/p&gt;
 			&lt;p&gt;After his release he becomes chief of his tribe, and goes on to engage in several battles against the Romans in Britannia and Italia, in which he utilizes the knowledge he gained in captivity to great effect.&lt;/p&gt;
